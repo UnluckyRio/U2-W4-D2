@@ -7,11 +7,11 @@ body {
   background-image: url("../img/sfondo.png");
   background-position: center center;
 }
-
+/* reset */
 * {
   box-sizing: border-box;
 }
-
+/* hr */
 hr {
   display: none;
 } /* rimuove l'elemento */
